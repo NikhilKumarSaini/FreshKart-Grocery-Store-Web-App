@@ -22,11 +22,4 @@ Welcome to FreshKart! FreshKart is an online grocery web application designed to
 - **Payment Gateway**: Stripe/PayPal
 - **Deployment**: Heroku/AWS
 
-## Installation
 
-To get started with FreshKart locally, follow these steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/freshkart.git
